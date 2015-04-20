@@ -1,0 +1,51 @@
+# Authors
+
+baran:
+  name: Onur Baran
+  web: http://onurbaran.com.tr
+  email: onur.baran@pivot.us
+  bio: "CEO"
+  avatar: baran.png
+  twitter: onur_baran
+  github: baran
+  linkedin: baranonur
+
+dilara:
+  name: Dilara Koca
+  web:
+  email: dilara.koca@pivot.us
+  bio: "Developer"
+  avatar: dilara.png
+  twitter: adilarakoca
+  github: dilara
+
+ecylmz:
+  name: Emre Can Yılmaz
+  web: http://ecylmz.com
+  email: emrecan@pivot.us
+  bio: "DevOps"
+  avatar: ecylmz.png
+  twitter: ecylmz
+  github: ecylmz
+  instagram: ecylmz
+  linkedin: ecylmz
+
+emineker:
+  name: Emin Eker
+  web:
+  email: emin.eker@pivot.us
+  bio: "Developer"
+  avatar: emineker.png
+  twitter: emineker
+  github: emineker
+
+salihozd:
+  name: Salih Özdemir
+  web: http://salihozdemir.net
+  email: salih.ozdemir@pivot.us
+  bio: "Developer"
+  avatar: salihozd.png
+  twitter: salihozdemir
+  github: salihozd
+  instagram: salihozd
+  linkedin: salihozdemir
