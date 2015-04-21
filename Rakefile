@@ -44,8 +44,8 @@ def write_file(content, title, category, filename)
   parsed_content = "#{content.sub("title:", "title: \"#{title}\"")}"
   parsed_content = "#{parsed_content.sub("categories:", "categories: #{category}")}"
   parsed_content = "#{parsed_content.sub("author:", "author: #{ENV['USER']}")}"
-  File.write("#{category}/#{filename}", parsed_content)
-  puts "#{filename} was created in '#{category}'."
+  File.write("_posts/#{category}/#{filename}", parsed_content)
+  puts "#{filename} was created in '_posts/#{category}'."
 end
 
 # Create the file with the slug and open the default editor
@@ -58,7 +58,7 @@ def create_file(category, filename, content, title)
     editor = ENV['EDITOR']
     if editor && !editor.nil?
       sleep 1
-      execute("#{editor} #{category}/#{filename}")
+      execute("#{editor} _posts/#{category}/#{filename}")
     end
   end
 end
