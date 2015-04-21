@@ -1,10 +1,13 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
-modified:
-categories: {{ dir }}
-excerpt:
+layout: post
+title:
+excerpt: ""
+categories:
 tags: []
+modified:
 image:
   feature:
+comments: true
+share: true
+author:
 ---
