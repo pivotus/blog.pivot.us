@@ -6,6 +6,7 @@ baran:
   email: onur.baran@pivot.us
   bio: "CEO"
   avatar: baran.png
+  twitter: onur_baran
 
 dilara:
   name: Dilara Koca
@@ -13,6 +14,7 @@ dilara:
   email: dilara.koca@pivot.us
   bio: "Developer"
   avatar: dilara.png
+  twitter: adilarakoca
 
 ecylmz:
   name: Emre Can Yılmaz
@@ -20,6 +22,7 @@ ecylmz:
   email: emrecan@pivot.us
   bio: "DevOps"
   avatar: ecylmz.png
+  twitter: ecylmz
 
 emineker:
   name: Emin Eker
@@ -27,6 +30,7 @@ emineker:
   email: emin.eker@pivot.us
   bio: "Developer"
   avatar: emineker.png
+  github: emineker
 
 salihozd:
   name: Salih Özdemir
@@ -34,3 +38,4 @@ salihozd:
   email: salih.ozdemir@pivot.us
   bio: "Developer"
   avatar: salihozd.png
+  twitter: salihozdemir
