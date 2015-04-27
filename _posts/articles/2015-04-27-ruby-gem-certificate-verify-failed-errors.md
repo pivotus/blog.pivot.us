@@ -30,4 +30,4 @@ $ sudo update_rubygems
 $ sudo gem uninstall rubygems-update -x
 {% endhighlight %}
 
-**Reference:** https://gist.github.com/luislavena/f064211759ee0f806c88
+**Reference:** [https://gist.github.com/luislavena/f064211759ee0f806c88](https://gist.github.com/luislavena/f064211759ee0f806c88)
