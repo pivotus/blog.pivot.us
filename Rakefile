@@ -30,7 +30,7 @@ def transform_to_slug(title)
   whitespace = /\s/
   turkish_characters = {'Ş' => 's', 'ş' => 's', 'Ö' => 'o', 'ö' => 'o', 'İ' => 'i' , 'ı' => 'i', 'Ü' => 'u', 'ü' => 'u', 'Ğ' => 'g', 'ğ' => 'g', 'Ç' => 'c', 'ç' => 'c'}
   transformed_title = title.dup
-  turkish_characters.each {|k,v| transformed_title.sub!(k,v)}
+  turkish_characters.each {|k,v| transformed_title.gsub!(k,v)}
   "#{transformed_title.gsub(characters,"").gsub(whitespace,"-").downcase}.md"
 end
 
