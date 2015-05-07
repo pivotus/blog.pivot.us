@@ -45,7 +45,13 @@ $ vault server -config=config.hcl
 
 {% highlight bash %}
 $ export VAULT_ADDR='http://127.0.0.1:8200'
-{ %endhighlight %}
+{% endhighlight %}
+
+## Yapılan İşlemleri Kayıt Altına Al
+
+{% highlight bash %}
+$ vault audit-enable file path=~/vault/vault_audit.log
+{% endhighlight %}
 
 ##  Sır İşlemleri
 
