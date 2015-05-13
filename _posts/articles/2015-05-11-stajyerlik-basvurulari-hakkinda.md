@@ -12,5 +12,5 @@ share: true
 author: salihozd
 ---
 
-Merhaba, 2015 yaz dönemi için stajyer alımı **yapmayacağız**. Bizzat ve e-posta aracılığıyla gösterdiğini ilgiye
+Merhaba, 2015 yaz dönemi için stajyer alımı **yapmayacağız**. Bizzat ve e-posta aracılığıyla gösterdiğiniz ilgiye
 teşekkür ederiz.
