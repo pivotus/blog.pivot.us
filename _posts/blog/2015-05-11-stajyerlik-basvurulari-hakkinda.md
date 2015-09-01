@@ -2,7 +2,7 @@
 layout: post
 title: "Stajyer Alımları Hakkında"
 excerpt:
-categories: articles
+categories: blog
 tags: [staj, stajyer]
 modified: 2015-05-11
 image:
